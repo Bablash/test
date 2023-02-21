@@ -4,6 +4,8 @@
 
 Версия java: 18.0.2
 
+Версия maven: 4.0.0
+
 Путь к jar-файлу: out/artifacts/test_jar
 
 Путь к исходному тексту программы: src/java/org/example
